@@ -9,7 +9,9 @@ In this game, you restore harmony by realigning energetic pathways, acting as a 
 - Live2D animated characters integrated directly into scenes and subtly respond to player level completion.
 - Procedural logic for spawning, rotating, and snapping puzzle tiles into a grid-based layout.
 
+![Gameplay Demo](assets/gameplay.gif)
+
 * Scripts can be found under Assets/Resources *
 
-Code & Animation: Susana Yang, Chen Ci Jun \n
+Code & Animation: Susana Yang, Chen Ci Jun  
 Art & Game Design: Liu Ke Xin
