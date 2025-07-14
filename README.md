@@ -11,5 +11,5 @@ In this game, you restore harmony by realigning energetic pathways, acting as a 
 
 * Scripts can be found under Assets/Resources *
 
-Code & Animation: Susana Yang, Chen Ci Jun
+Code & Animation: Susana Yang, Chen Ci Jun \n
 Art & Game Design: Liu Ke Xin
