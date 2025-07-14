@@ -9,7 +9,7 @@ In this game, you restore harmony by realigning energetic pathways, acting as a 
 - Live2D animated characters integrated directly into scenes and subtly respond to player level completion.
 - Procedural logic for spawning, rotating, and snapping puzzle tiles into a grid-based layout.
 
-*(Insert a few `.gif` or `.png` files of gameplay and animations)*
+[Gameplay Preview](assets/preview.gif)
 
 * Scripts can be found under Assets/Resources *
 
