@@ -1,0 +1,207 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 1.533,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 11,
+		"TotalSegmentCount": 21,
+		"TotalPointCount": 52,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleZ",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.133,
+				0,
+				0.267,
+				18,
+				0.4,
+				18,
+				1,
+				0.489,
+				18,
+				0.578,
+				-30,
+				0.667,
+				-30,
+				0,
+				1.533,
+				-30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeLOpen",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.222,
+				1,
+				0.444,
+				0.8,
+				0.667,
+				0.8,
+				0,
+				1.533,
+				0.8
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeROpen",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.222,
+				1,
+				0.444,
+				0.8,
+				0.667,
+				0.8,
+				0,
+				1.533,
+				0.8
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeBallX",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.533,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeBallY",
+			"Segments": [
+				0,
+				-1,
+				0,
+				1.533,
+				-1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowLY",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.178,
+				0,
+				0.356,
+				1,
+				0.533,
+				1,
+				0,
+				1.533,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowRY",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.178,
+				0,
+				0.356,
+				1,
+				0.533,
+				1,
+				0,
+				1.533,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamMouthForm",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.222,
+				1,
+				0.444,
+				1,
+				0.667,
+				1,
+				0,
+				1.533,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamMouthOpenY",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.222,
+				0,
+				0.444,
+				1,
+				0.667,
+				1,
+				0,
+				1.533,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBreath",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.222,
+				0,
+				0.444,
+				1,
+				0.667,
+				1,
+				0,
+				1.533,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param",
+			"Segments": [
+				0,
+				30,
+				1,
+				0.222,
+				30,
+				0.444,
+				25,
+				0.667,
+				25,
+				0,
+				1.533,
+				25
+			]
+		}
+	]
+}

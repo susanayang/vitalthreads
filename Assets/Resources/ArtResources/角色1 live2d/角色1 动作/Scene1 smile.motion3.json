@@ -1,0 +1,110 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 1.233,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 6,
+		"TotalSegmentCount": 10,
+		"TotalPointCount": 24,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleY",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.233,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowLY",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.222,
+				1,
+				0.444,
+				-1,
+				0.667,
+				-1,
+				0,
+				1.233,
+				-1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowRY",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.222,
+				1,
+				0.444,
+				-1,
+				0.667,
+				-1,
+				0,
+				1.233,
+				-1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamMouthForm",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.222,
+				0,
+				0.444,
+				-1,
+				0.667,
+				-1,
+				0,
+				1.233,
+				-1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBreath",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.222,
+				1,
+				0.444,
+				0,
+				0.667,
+				0,
+				0,
+				1.233,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param",
+			"Segments": [
+				0,
+				30,
+				0,
+				1.233,
+				30
+			]
+		}
+	]
+}
